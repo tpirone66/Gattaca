@@ -1,1 +1,2 @@
-
+To run this project, you must have a NVIDIA GPU Graphics card with Cuda 9.2 and Microsoft Visual Studio 2017 Version 14. 
+If it is not able to run, look at the test files and outputs for results!
