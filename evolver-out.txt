@@ -1,0 +1,78 @@
+running tests: 1
+test 00: 
+Generation: Diversity: Fittest Individual: P&L Value:
+1, 	    8.600000,  0, 		   -0.538488
+
+Fittest Individual:   Fittest P&L:
+0                     -0.538488
+
+Fittest Strategy:
+    23456789TA
+  0 HPDSHSDDDS
+  1 HHHPHPPDPS
+  2 PSDHSDHSDP
+  3 PDPDHSPPPD
+  4 PPDPHSHPHS
+  5 PSDHHPPHHD
+  6 SPDDSDSDSS
+  7 DHDHDDDHHS
+  8 HPSDSSDSPS
+  9 SPDPHDDDHH
+ 10 HPPDSDHDHD
+ 11 HHSSDHHHHS
+ 12 DDHSPPPDPS
+ 13 DDHSDDPPPH
+ 14 HPHPHHHDHS
+ 15 DDDDHSSPDP
+ 16 DPSHSPPHDD
+ 17 PSDSSHSPSS
+ 18 HDHPDDSSPP
+ 19 SHSPPHDHHD
+ 20 HSPPSHPSDP
+ 21 SSSHHDPHHP
+ 22 PPDPSSDDSS
+ 23 DHHDHHSHDS
+ 24 DPDHDPPSSP
+ 25 DDSPSDDDPH
+ 26 HDSSHDDPHP
+ 27 HSSSPSSDPH
+ 28 HSHHPPDHDH
+ 29 SDHHSSHDHH
+ 30 SHSSHPDHHS
+ 31 HSDHPPPSPH
+ 32 HHDHHPHSDH
+ 33 SDPDDHSPDP
+ 34 HPHHSSSHHS
+ 35 HDDDHSSDHH
+ 36 PDHDSPSPHS
+ 37 DDHHDHDDSD
+ 38 PHDPDHHDDS
+ 39 DDSPHDPHDH
+ 40 HDPSSHDSHP
+ 41 DPPHPSPSHH
+ 42 PSHHHPSDDD
+
+tid        pl     hands      wins       bjs  charlies     loses    breaks      dbjs    pushes
+  0 -0.538488      1468       367        11         0       429       551        41        69
+  1 -0.472923      1625       484        23         0       532       450        50        86
+  2 -0.508242      1456       399        10         0       459       475        47        66
+  3 -0.561224      1323       348        11         0       369       503        31        61
+  4 -0.472638      1535       431        13         0       460       526        52        53
+  5 -0.477572      1672       491        11         0       543       507        45        75
+  6 -0.494548      1284       326        14         0       413       430        42        59
+  7 -0.468688      1517       438        14         0       485       460        39        81
+  8 -0.517366      1382       380         6         0       435       452        61        48
+  9 -0.485874      1345       377         5         0       401       464        52        46
+
+tid     total     nones     stays      hits   doubles    splits
+  0      2456         0       391       916       414       735
+  1      2523         0       587       471       607       858
+  2      2263         0       497       637       487       642
+  3      1958         0       355       598       547       458
+  4      2538         0       522       845       363       808
+  5      2714         0       424       653       583      1054
+  6      1954         0       536       724       321       373
+  7      2399         0       597       652       398       752
+  8      2117         0       531       631       448       507
+  9      2033         0       544       699       337       453
+ PASSED!
